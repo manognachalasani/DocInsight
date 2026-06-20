@@ -84,4 +84,5 @@ desktop.ini
 # Large Sample Documents (Optional)
 # Uncomment if you don't want to push PDFs
 # ==========================
-# data/sample_docs/
+data/sample_docs/**/*.pdf
+data/cleaned_docs.jsonl
